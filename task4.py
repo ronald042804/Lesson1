@@ -1,0 +1,1 @@
+print("pagkatapos sinampal ni harry si daniel")

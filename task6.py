@@ -1,0 +1,1 @@
+print("nagalit si daniel")

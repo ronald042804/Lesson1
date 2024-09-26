@@ -1,0 +1,1 @@
+print("at sinabi na mag ingat ka naman")
